@@ -1,0 +1,18 @@
+table {
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid #ddd;
+}
+
+th, td {
+  text-align: left;
+  padding: 16px;
+}
+
+.many-pictures{
+	
+	background-image:url(../IMAGES/many-pictures.jpg); 
+	
+	height: 1151px;
+	
+}
